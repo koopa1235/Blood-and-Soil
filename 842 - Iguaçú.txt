@@ -1,0 +1,26 @@
+
+state={ # ACTUAL IGUAÇU!
+	id=842
+	name="STATE_842"
+	manpower = 881456
+	
+	state_category = town
+
+	history={
+		owner = RGR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+		}
+		add_claim_by = SPL
+		add_claim_by = PAR
+		#add_claim_by = ARG
+		victory_points = {
+			5178 1		# Cascavel
+		}
+	}
+
+	provinces={
+		4587 5178 13244 13245 13246 13247 13248 13438 13439 13440
+	}
+}
